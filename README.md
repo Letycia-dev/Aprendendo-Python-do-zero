@@ -98,6 +98,6 @@ print(num1 % num2)
 
 ## ✨ Autor
 
-**Lê**\
+**Leticia**\
 Estudante de Programação • Em constante evolução\
 GitHub: (adicione seu link aqui)

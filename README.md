@@ -1,10 +1,10 @@
-# 🐍 Python Básico --- por Lê
+# 🐍 Python Básico --- por Leticia
 
 ![Badge](https://img.shields.io/badge/Python-3.12-blue)
 ![Badge](https://img.shields.io/badge/Estudos-Iniciante-green)
 ![Badge](https://img.shields.io/badge/Status-Em%20Progresso-yellow)
 
-Bem-vindo(a) ao repositório **Aprendendo-Python-do-zero**, onde estou
+Bem-vindo(a) ao repositório **python-iniciantes-le**, onde estou
 documentando minha jornada de aprendizagem em **Python**!\
 Aqui você encontrará exercícios, exemplos e materiais dos meus primeiros
 passos na linguagem. 🚀
@@ -100,5 +100,4 @@ print(num1 % num2)
 
 **Lê**\
 Estudante de Programação • Em constante evolução\
-GitHub: (https://github.com/Letycia-dev)# Aprendendo-Python-do-zero
-Aqui será registrado meus novos aprendizados na linguagem Python, onde quero ir evoluindo a complexidade a cada atualização.
+GitHub: (adicione seu link aqui)
